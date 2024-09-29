@@ -1,4 +1,21 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+    Initialize a Counter: Set a variable to start at 2 (the first count).
+
+    Loop through Counts: Create a loop that continues while the counter is less than or equal to 50.
+
+    Print the Counter: Inside the loop, print the current value of the counter.
+
+    Increment the Counter: Increase the counter by 2 after each iteration.
+
+    End the Program: The loop will automatically end when the counter exceeds 50, completing the task.
+
+Example Logic Flow:
+
+    Start with counter = 2
+    Print the counter
+    Increment counter by 2 (counter = counter + 2)
+    Repeat until counter > 50
+
 

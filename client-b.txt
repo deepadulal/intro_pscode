@@ -1,4 +1,10 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+    Set Positions: Start the customer at (0, 0) and define the target location (x, y).
+    Move Customer: Ask the customer to move north, south, east, or west.
+    Update Position: Adjust the coordinates based on the movement direction.
+    Check Location: If the customer’s position matches the target, they’ve arrived.
+    Repeat: Continue until the customer reaches the target location.
+
 
